@@ -1,9 +1,7 @@
-# marcos-paulo-sb-silva-itp-2025-2
-
-### Introdução a Técnicas de Programação - Unidade 1
-# Aluno: [Seu Nome Completo]
-# Matrícula: [Sua Matrícula]
-# Período: 2025.2
+# Introdução a Técnicas de Programação - Unidade 1
+### Aluno: [Seu Nome Completo]
+### Matrícula: [Sua Matrícula]
+### Período: 2025.2
 
 ## 📁 Estrutura do Projeto
 projeto/: Projeto principal da unidade
