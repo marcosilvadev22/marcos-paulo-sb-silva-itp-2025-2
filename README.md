@@ -13,7 +13,8 @@ README.md: Este arquivo
 🚀 Projeto: Gerenciador de Tarefas (Todolist) via Linha de Comando
 Descrição: Uma aplicação de linha de comando (CLI) desenvolvida em linguagem C que permite ao usuário adicionar e listar tarefas. O projeto foi criado para aplicar os conceitos fundamentais da Unidade 1 da disciplina de Introdução a Técnicas de Programação.
 
-Repositório: [https://github.com/marcosilvadev22/marcos-paulo-sb-silva-itp-2025-2.git]
+Repositório: [https://github.com/marcosilvadev22/marcos-paulo-sb-silva-itp-2025-2.git] 
+
 Vídeo de Demonstração: [https://youtu.be/twI7G-QM4zo?si=J6L-wcXot8IsZ6hS]
 
 ## Funcionalidades Implementadas:
