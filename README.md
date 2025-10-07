@@ -1,6 +1,6 @@
 # Introdução a Técnicas de Programação - Unidade 1
-### Aluno: [Seu Nome Completo]
-### Matrícula: [Sua Matrícula]
+### Aluno: Marcos Paulo Santos Bento da Silva
+### Matrícula: 20250060659
 ### Período: 2025.2
 
 ## 📁 Estrutura do Projeto
@@ -13,8 +13,8 @@ README.md: Este arquivo
 🚀 Projeto: Gerenciador de Tarefas (Todolist) via Linha de Comando
 Descrição: Uma aplicação de linha de comando (CLI) desenvolvida em linguagem C que permite ao usuário adicionar e listar tarefas. O projeto foi criado para aplicar os conceitos fundamentais da Unidade 1 da disciplina de Introdução a Técnicas de Programação.
 
-Repositório: [Link para seu repositório público no GitHub/GitLab]
-Vídeo de Demonstração: [Link para seu vídeo de 5-8 minutos]
+Repositório: [https://github.com/marcosilvadev22/marcos-paulo-sb-silva-itp-2025-2.git]
+Vídeo de Demonstração: [https://youtu.be/twI7G-QM4zo?si=J6L-wcXot8IsZ6hS]
 
 ## Funcionalidades Implementadas:
 
@@ -114,8 +114,8 @@ Os principais aprendizados durante o desenvolvimento deste projeto foram focados
 
 ## 🔧 Ambiente de Desenvolvimento
 
-SO: Windows
+SO: Windows 11.
 
-Compilador: GCC (MinGW-w64). Para saber sua versão, digite gcc --version no terminal.
+Compilador: GCC (MinGW-w64).
 
 Editor: Visual Studio Code (VS Code)
