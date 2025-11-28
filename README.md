@@ -17,7 +17,7 @@ Repositório: [https://github.com/marcosilvadev22/marcos-paulo-sb-silva-itp-2025
 
 Vídeo de Demonstração U1: [https://youtu.be/twI7G-QM4zo?si=J6L-wcXot8IsZ6hS]
 
-Vídeo de Demonstração U2: [link]
+Vídeo de Demonstração U2: [https://youtu.be/sIsKnkIVF_0]
 
 ## Funcionalidades Implementadas na U1:
 
