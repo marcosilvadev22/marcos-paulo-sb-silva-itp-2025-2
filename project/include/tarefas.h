@@ -1,13 +1,18 @@
 #ifndef TAREFAS_H
 #define TAREFAS_H
 
-// aqui defini constantes para o tamanho máximo do vetor e da descrição da tarefa
-#define MAX_TAREFAS 100
-#define TAM_DESCRICAO 100
+#include <stdio.h> 
 
-// Declaração das funções que serão usadas no programa
+// Definições globais
+#define MAX_TAREFAS 100
+#define TAM_DESCRICAO 256
+
+// Protótipos das Funções -- atualizados com a função deletar e buscar uma tarefa e exibir relatório. 
 void exibirMenu();
-void adicionarTarefa(char tarefas[MAX_TAREFAS][TAM_DESCRICAO], int *numTarefas);
-void listarTarefas(char tarefas[MAX_TAREFAS][TAM_DESCRICAO], int numTarefas);
+void adcTarefa(char **todolist, int *contadorTarefas);
+void listarTarefas(char **tarefas, int numTarefas);
+void deletarTarefa(char **todolist, int *contadorTarefas); // nova função adicionada
+void exibirRelatorio(void); // nova função adiconada 
+void buscarTarefa(char **tarefas, int numTarefas); // nova função adicionada
 
 #endif

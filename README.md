@@ -15,9 +15,11 @@ Descrição: Uma aplicação de linha de comando (CLI) desenvolvida em linguagem
 
 Repositório: [https://github.com/marcosilvadev22/marcos-paulo-sb-silva-itp-2025-2.git] 
 
-Vídeo de Demonstração: [https://youtu.be/twI7G-QM4zo?si=J6L-wcXot8IsZ6hS]
+Vídeo de Demonstração U1: [https://youtu.be/twI7G-QM4zo?si=J6L-wcXot8IsZ6hS]
 
-## Funcionalidades Implementadas:
+Vídeo de Demonstração U2: [link]
+
+## Funcionalidades Implementadas na U1:
 
 Adicionar uma nova tarefa à lista.
 
@@ -26,6 +28,14 @@ Listar todas as tarefas atualmente cadastradas.
 Menu interativo para seleção de opções pelo usuário.
 
 Sair do programa de forma segura através do menu.
+
+## Funcionalidades Implementadas na U2:
+
+ Deletar tarefa: Remove itens e libera memória automaticamente.
+
+ Buscar tarefa: Localiza tarefas por palavra-chave (substring).
+
+Relatório de Produtividade: Exibe visualmente a distribuição de tarefas por dia e mês.
 
 ## Conceitos da U1 Aplicados:
 
@@ -51,7 +61,19 @@ adicionarTarefa(): Encapsula toda a lógica para adicionar uma nova tarefa, incl
 
 listarTarefas(): Responsável por exibir todas as tarefas cadastradas de forma formatada.
 
-## 📚 Listas de Exercícios
+## Conceitos da U2 Aplicados:
+
+Ponteiros: Uso de ponteiros para ponteiros (char **) para manipular a lista de tarefas e passagem por referência para contadores.
+
+Alocação Dinâmica: Uso de malloc e free para otimizar o uso de RAM, alocando apenas o necessário para cada descrição.
+
+Matrizes: Implementação de matriz bidimensional [12][31] para o relatório de tarefas anuais.
+
+Strings: Manipulação avançada com strstr, strcpy e leitura segura.
+
+Modularização: Código dividido em main.c, tarefas.c e tarefas.h.
+
+## 📚 Listas de Exercícios U1
 
 
 Semana 2 - Variáveis, Tipos e Operadores:
@@ -108,10 +130,50 @@ Semana 6 - Vetores:
 
 ✅ Problema 3: A construção da ponte
 
-✅ Problema 4: Em busca do tesouro perdido
+✅ Problema 4: Em busca do tesouro perdido]
 
-## 🎯 Principais Aprendizados
+## 📚 Listas de Exercícios U2
+
+Semana 7 - strings:
+✅ Problema 1
+
+✅ Problema 2
+
+✅ Problema 3
+
+Semana 8 - repetições aninhadas
+✅ Problema 1
+
+✅ Problema 2
+
+✅ Problema 3
+
+semana 9 - Matrizes 
+✅ Problema 1
+
+✅ Problema 2
+
+✅ Problema 3
+
+✅ Problema 4
+
+semana 10 - ponteiros e alocações
+✅ Problema 1
+
+✅ Problema 2
+
+✅ Problema 3
+
+
+## 🎯 Principais Aprendizados U1:
 Os principais aprendizados durante o desenvolvimento deste projeto foram focados na aplicação prática da teoria e na resolução de problemas comuns no desenvolvimento em C. O primeiro grande aprendizado foi a importância de uma correta configuração do ambiente de desenvolvimento, especialmente a variável de ambiente PATH no Windows, que foi crucial para o funcionamento de ferramentas como gcc e make. Em segundo lugar, o projeto solidificou o entendimento sobre o manuseio de entrada e saída (I/O) em C, em particular os desafios de lidar com o buffer de entrada (stdin) após o uso do scanf e a necessidade de tratar strings lidas com fgets. Por fim, a modularização com funções demonstrou ser uma prática essencial para manter o código organizado, legível e de fácil manutenção, mesmo em um projeto de pequena escala.
+
+## 🎯 Principais Aprendizados U2:
+Na segunda unidade, o foco mudou da lógica básica para a gestão eficiente de recursos. Os principais desafios superados foram:
+
+Gerenciamento de Memória: Aprender a alocar e liberar memória manualmente para evitar memory leaks.
+Compilação Modular: Entender como o linker une múltiplos arquivos .c e resolver erros de "undefined reference".
+Estruturas Complexas: Manipular matrizes e ponteiros duplos exigiu um entendimento mais profundo de como os dados são organizados na memória do computador.
 
 ## 🔧 Ambiente de Desenvolvimento
 
